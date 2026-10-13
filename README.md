@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
   <a href="https://github.com/FateEscape">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e7490,100:22d3ee&height=220&section=header&text=FateEscape&fontColor=ffffff&fontSize=72&fontAlignY=36&desc=Applikationsentwickler%20%E2%80%A2%20AI%20%26%20ML%20Student%20%E2%80%A2%20Homelab-Nerd&descAlignY=58&descSize=18&animation=fadeIn" alt="FateEscape" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e7490,100:22d3ee&height=220&section=header&text=FateEscape&fontColor=ffffff&fontSize=72&fontAlignY=36&desc=Applikationsentwickler%20%E2%80%A2%20AI%20und%20ML%20Student%20%E2%80%A2%20Homelab-Nerd&descAlignY=58&descSize=18&animation=fadeIn" alt="FateEscape" width="100%" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FateEscape&label=Profilaufrufe&color=22d3ee&style=flat-square" alt="Profilaufrufe" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FateEscape.FateEscape&left_text=Profilaufrufe&left_color=%23555555&right_color=%2322d3ee" alt="Profilaufrufe" />
   <img src="https://img.shields.io/github/followers/FateEscape?label=Follower&style=flat-square&color=22d3ee&logo=github" alt="Follower" />
   <img src="https://img.shields.io/badge/Standort-Schweiz%20%F0%9F%87%A8%F0%9F%87%AD-22d3ee?style=flat-square" alt="Schweiz" />
 </p>

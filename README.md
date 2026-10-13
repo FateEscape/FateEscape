@@ -96,7 +96,7 @@ var me = new Developer
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=FateEscape&show_icons=true&theme=tokyonight&title_color=22d3ee&icon_color=22d3ee&hide_border=true&bg_color=00000000&count_private=true&locale=de" alt="GitHub-Statistiken" />
-  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=FateEscape&layout=compact&theme=tokyonight&title_color=22d3ee&icon_color=22d3ee&hide_border=true&bg_color=00000000&langs_count=8&locale=de" alt="Meistgenutzte Sprachen" />
+  <img height="170" src="assets/languages.svg" alt="Meistgenutzte Sprachen" />
 </p>
 
 <p align="center">
